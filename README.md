@@ -1,6 +1,6 @@
-# Advent of Code 2024
+# Advent of Code
 
-The purpose of this repo is to collect my [Advent of Code 2024](https://adventofcode.com/2024).
+The purpose of this repo is to collect my [Advent of Code](https://adventofcode.com) solutions across multiple years.
 
 ### Prerequisites
 
